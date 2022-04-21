@@ -1,0 +1,26 @@
+[
+    {
+        "ID":1,
+        "Username":"TrusanAcar",
+        "FirstName":"Trusan",
+        "LastName":"Acar",
+        "Interest":"Python,GO,Docker,CryptoCurrency",
+        "Profile":"https://www.linkedin.com/in/trusan-acar"
+    },
+    {
+        "ID":2,
+        "Username":"TurusanAçar",
+        "FirstName":"Turusan",
+        "LastName":"Açar",
+        "Interest":"Photoshop,C#,MongoDB,Android",
+        "Profile":"https://www.facebook.com/truesunacar"
+    },
+    {
+        "ID":3,
+        "Username":"TursanAkar",
+        "FirstName":"Tursan",
+        "LastName":"Akar",
+        "Interest":"Java,C++,Azure,AdobeXD",
+        "Profile":"https://twitter.com/trsnacar"
+    }
+]
